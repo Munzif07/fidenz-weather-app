@@ -1,0 +1,77 @@
+[
+  {
+    "cityCode": 1248991,
+    "name": "Colombo",
+    "country": "LK"
+  },
+  {
+    "cityCode": 1241622,
+    "name": "Kandy",
+    "country": "LK"
+  },
+  {
+    "cityCode": 1226260,
+    "name": "Trincomalee",
+    "country": "LK"
+  },
+  {
+    "cityCode": 1246294,
+    "name": "Galle",
+    "country": "LK"
+  },
+  {
+    "cityCode": 1242833,
+    "name": "Jaffna",
+    "country": "LK"
+  },
+  {
+    "cityCode": 1233369,
+    "name": "Negombo",
+    "country": "LK"
+  },
+  {
+    "cityCode": 1250161,
+    "name": "Batticaloa",
+    "country": "LK"
+  },
+  {
+    "cityCode": 1235846,
+    "name": "Matara",
+    "country": "LK"
+  },
+  {
+    "cityCode": 1237980,
+    "name": "Kurunegala",
+    "country": "LK"
+  },
+  {
+    "cityCode": 1251081,
+    "name": "Anuradhapura",
+    "country": "LK"
+  },
+  {
+    "cityCode": 1228730,
+    "name": "Ratnapura",
+    "country": "LK"
+  },
+  {
+    "cityCode": 1232783,
+    "name": "Nuwara Eliya",
+    "country": "LK"
+  },
+  {
+    "cityCode": 1250615,
+    "name": "Badulla",
+    "country": "LK"
+  },
+  {
+    "cityCode": 1229293,
+    "name": "Puttalam",
+    "country": "LK"
+  },
+  {
+    "cityCode": 1225018,
+    "name": "Vavuniya",
+    "country": "LK"
+  }
+]
